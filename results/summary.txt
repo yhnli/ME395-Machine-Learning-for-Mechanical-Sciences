@@ -1,0 +1,13 @@
+============================================================
+Baseline DeepLSTM
+============================================================
+Test waveform RMSE : 6.5687 mmHg
+Test SBP RMSE      : 6.5551 mmHg
+Test DBP RMSE      : 3.8390 mmHg
+
+============================================================
+Physics-Informed DeepLSTM
+============================================================
+Test waveform RMSE : 6.5889 mmHg
+Test SBP RMSE      : 6.4118 mmHg
+Test DBP RMSE      : 3.8298 mmHg
