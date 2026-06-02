@@ -30,7 +30,7 @@ Additional standard-library modules used:
 ---
 ## Execution Steps
 1. Clone this repository
-2. Download the data from [this link](https://archive.ics.uci.edu/dataset/340/cuff+less+blood+pressure+estimation). For this project, only *Part_1.mat* was used.
+2. Data file is too large to include in this repo. Download the data from [this link](https://archive.ics.uci.edu/dataset/340/cuff+less+blood+pressure+estimation). For this project, only *Part_1.mat* was used.
 3. Open *deepLSTM_pytorch.ipynb* in Google Colab
 4. Move *Part_1.mat* and *data_loader.py* into a folder in your Google Drive titled **ME395**. Alternatively, you can modify the **Setup** cell of the Jupyter notebook to change file paths.
 5. Use the **Configurations** cell to modify hyperparameters if needed.
